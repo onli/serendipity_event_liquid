@@ -1,0 +1,8 @@
+0.3.1:
+    PHP 8 compatibility fixes
+0.3:
+    convert [[link]] zu <img src=link />
+0.2.6:
+    converts [link] to <a href="link">link</a>
+0.2.5
+    \ now escapes * and [
